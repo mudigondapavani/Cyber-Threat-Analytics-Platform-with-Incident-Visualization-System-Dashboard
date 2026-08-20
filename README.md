@@ -34,6 +34,10 @@ This project presents a Power BI based Cyber Threat Analytics Platform designed 
 3. Security Risk Assessment
 4. Predictive & Executive Intelligence
 
+## License
+
+This project is licensed under the MIT License.
+
 ## Author
 
 Pavani Mudigonda
